@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDllOWU3ODg4NjQ1ODIzZTBkOTk5OTAwMjFiZjAyMzBjMmYyMmFjNyZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 </p>
 
-<h1 align="center">Hey there, I'm [Your Name] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h1 align="center">Hey there, I'm Nguyen Quang Hung <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
