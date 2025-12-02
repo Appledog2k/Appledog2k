@@ -22,7 +22,7 @@ I’m a Data Engineer and Web Developer with interests in scalable data pipeline
 - 🏢 Data Engineer @ FPT IS
 - 🔭 Focus: data modeling, ETL/ELT, orchestration
 - ☁️ Cloud & Big Data: AWS, Spark, Kafka, Airflow
-- ✍️ Writing: articles and notes (update links above)
+- ✍️ Writing: articles and notes
 
 ---
 
@@ -53,19 +53,10 @@ See individual repositories for detailed READMEs and setup instructions.
 
 ---
 
-### 📊 Stats
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Appledog2k&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Appledog2k&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ### 📝 Latest posts
 <!-- Cập nhật các liên kết bài viết thật của bạn hoặc tích hợp action tự động -->
 - Optimizing Data Pipelines: Best Practices for Scalability
 - Demystifying Apache Kafka: A Comprehensive Guide
-- MLOps: Bridging Data Science and DevOps
 
 ---
 
