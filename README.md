@@ -12,15 +12,15 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Appledog2k&style=flat-square&color=blue" alt="Profile views"></p>
 
-<h2 align="center">Full Stack Data Engineer · Vietnam 🇻🇳</h2>
+<h2 align="center">Data Engineer · Vietnam 🇻🇳</h2>
 
 ### 👋 About me
 
 I’m a Data Engineer and Web Developer with interests in scalable data pipelines, cloud, and automation. I enjoy building things end‑to‑end and sharing learnings.
 
-- 🏢 Data Engineer @ FPT IS
+- 🏢 Data Engineer
 - 🔭 Focus: data modeling, ETL/ELT, orchestration
-- ☁️ Cloud & Big Data: AWS, Spark, Kafka, Airflow
+- ☁️ Cloud & Big Data: AWS, Spark, Kafka, Airflow, Hadoop
 - ✍️ Writing: articles and notes
 
 ---
