@@ -5,10 +5,9 @@
 <h1 align="center">Hi, I'm Nguyen Quang Hung <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 <p align="center">
-  <!-- Cập nhật các liên kết bên dưới theo hồ sơ thực tế của bạn -->
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="#"><img src="[www.linkedin.com/in/appledog2k](https://www.linkedin.com/in/appledog2k/)" alt="LinkedIn"></a>
+  <a href="#"><img src="" alt="Medium"></a>
+  <a href="#"><img src="" alt="Twitter"></a>
 </p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Appledog2k&style=flat-square&color=blue" alt="Profile views"></p>
